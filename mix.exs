@@ -40,7 +40,7 @@ defmodule Shopify.Mixfile do
       files: ["lib", "mix.exs", "README*"],
       maintainers: ["Nicholas Sweeting"],
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/robertSawlton/shopify"}
+      links: %{"GitHub" => "https://github.com/apple0441/shopify"}
     ]
   end
 
